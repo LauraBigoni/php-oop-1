@@ -1,0 +1,13 @@
+body {
+    padding-top: 100px;
+}
+
+div.movie+div.movie {
+    margin-top: 50px;
+}
+
+div.movie {
+    background-color: rgb(232, 255, 189);
+    border: 1px solid black;
+    padding: 20px;
+}
